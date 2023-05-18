@@ -4,6 +4,11 @@
 # firstpkgvb
 
 <!-- badges: start -->
+
+[![Travis build
+status](https://travis-ci.com/vasilisbaltas/firstpkgvb.svg?branch=master)](https://travis-ci.com/vasilisbaltas/firstpkgvb)
+
+[![R-CMD-check](https://github.com/vasilisbaltas/firstpkgvb/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/vasilisbaltas/firstpkgvb/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of firstpkgvb is to provide functionality for my packages. Only
